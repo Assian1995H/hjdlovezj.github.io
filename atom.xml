@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjdlovezj.github.io</id>
     <title>HJDLOVEZJ</title>
-    <updated>2022-04-18T14:35:18.972Z</updated>
+    <updated>2022-04-18T16:27:22.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hjdlovezj.github.io"/>
     <link rel="self" href="https://hjdlovezj.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://hjdlovezj.github.io/images/avatar.png</logo>
     <icon>https://hjdlovezj.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, HJDLOVEZJ</rights>
+    <entry>
+        <title type="html"><![CDATA[遥叩芳辰-致吾仙]]></title>
+        <id>https://hjdlovezj.github.io/post/yao-kou-fang-chen-zhi-wu-xian/</id>
+        <link href="https://hjdlovezj.github.io/post/yao-kou-fang-chen-zhi-wu-xian/">
+        </link>
+        <updated>2022-04-18T15:01:27.000Z</updated>
+        <content type="html"><![CDATA[<p>致吾仙，</p>
+<p>见信如晤，展信舒颜。</p>
+<p>2022年的槐序时节里映照的是又一年的动荡不安，但很庆幸这一年的时间里我们一同去过一些地方，感受不同地域的风物，留下许多注脚，成为你我人生中的又一段美好记忆。</p>
+<p>生活很苦，有你很甜。</p>
+<p>从六朝古都的街头，到沪地的趣味科技馆，再到临港的一方天文胜地，小小方寸之中不止方寸之乐；<br>
+从沪甬的来来往往，到饶州的登门重聘，再盼至瓯越的亲朋送往，路远迢迢之下不及汲汲之思；</p>
+<figure data-type="image" tabindex="1"><img src="https://hjdlovezj.github.io/post-images/1650299016526.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://hjdlovezj.github.io/post-images/1650299150225.jpg" alt="" loading="lazy"></figure>
+<p>疫情之下，此刻我伏案桌前一字一句斟酌着挂念千种，只盼你能事事顺遂，笑口常开。<br>
+遥叩芳辰，祝生日快乐。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy birthday~张小仙]]></title>
         <id>https://hjdlovezj.github.io/post/生日快乐~张小仙/</id>
